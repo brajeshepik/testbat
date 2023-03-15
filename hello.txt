@@ -2,6 +2,3 @@ welcome Epikso 123!
 sunday
 Monday
 Epikmonday
-
-
-hello wel
